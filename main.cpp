@@ -1,3 +1,10 @@
+/*
+
+  Author: kashimAstro (Dario Longobardi)
+  2020 
+
+*/
+
 #include <iostream>
 #include <string>
 #include <vector>
